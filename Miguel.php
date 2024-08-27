@@ -1,6 +1,6 @@
 <?php
 
-function abel(){
+function Miguel(){
     return 'Miguel Angel Garduza';
 }
 
