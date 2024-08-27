@@ -9,7 +9,9 @@ echo "<br>";
 echo abel();
 echo "<br>";
 echo omar();
+echo "<br>";
 echo Miguel();
+echo "<br>";
 echo carlos();
 
 ?>
