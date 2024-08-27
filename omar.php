@@ -1,6 +1,6 @@
 <?php
 
-function abel(){
+function omar(){
     return 'Omar Rivas Pérez';
 }
 
