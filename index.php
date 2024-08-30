@@ -13,5 +13,7 @@ echo "<br>";
 echo Miguel();
 echo "<br>";
 echo carlos();
+echo "<br>";
+echo "Nuevo mensaje";
 
 ?>
