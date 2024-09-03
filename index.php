@@ -14,6 +14,6 @@ echo Miguel();
 echo "<br>";
 echo carlos();
 echo "<br>";
-echo "Nuevo mensaje";
+echo "Nuevo mensaje 03/09/2024";
 
 ?>
